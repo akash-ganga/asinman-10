@@ -1,0 +1,9 @@
+.foot{
+    background-color: rgb(41, 7, 73);
+    height: 300px;
+    font-size: 100px;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

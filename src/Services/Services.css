@@ -1,0 +1,41 @@
+.service{
+    background-color: black;
+    padding-bottom: 25px;
+}
+
+.s-head{
+    text-align: center;
+    color: white;
+    margin: 0;
+    padding: 30px 0px;
+}
+
+.services-sec{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
+    grid-gap: 30px;
+    padding: 20px;
+}
+
+.single-service{
+    width: 350px;
+    background-color: rgb(32, 32, 32);
+    padding: 12px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.single-service img{
+    width: 300px;
+    height: 200px;
+    border-radius: 20px;
+}
+
+.single-service h2,.single-service h3,.single-service p{
+    margin: 0;
+    color: rgb(138, 255, 255);
+}

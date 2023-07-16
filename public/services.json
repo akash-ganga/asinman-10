@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "service-1",
+        "price": 10,
+        "img": "./ims/sk1.jpg",
+        "des": "abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd"
+    },
+    {
+        "id": "2",
+        "name": "service-2",
+        "price": 26,
+        "img": "./ims/sk2.jpg",
+        "des": "abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd"
+    },
+    {
+        "id": "3",
+        "name": "service-3",
+        "price": 245,
+        "img": "./ims/sk3.jpg",
+        "des": "abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd"
+    },
+    {
+        "id": "4",
+        "name": "service-4",
+        "price": 229,
+        "img": "./ims/sk4.jpg",
+        "des": "abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd"
+    },
+    {
+        "id": "5",
+        "name": "service-5",
+        "price": 287,
+        "img": "./ims/sk5.jpg",
+        "des": "abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd"
+    },
+    {
+        "id": "6",
+        "name": "service-6",
+        "price": 138,
+        "img": "./ims/sk6.jpg",
+        "des": "abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd"
+    }
+]

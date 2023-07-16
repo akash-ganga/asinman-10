@@ -1,0 +1,31 @@
+.home, .h-d-sec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h-d-sec{
+    flex-direction: column;
+    margin: 45px;
+    padding: 30px;
+    background-color: #252525;
+    width: 680px;
+    height: 430px;
+    border-radius: 50px;
+}
+
+.h-d-sec p{
+    text-align: justify;
+}
+
+.home{
+    background-color: black;
+    color: rgb(0, 206, 206);
+}
+
+.home img{
+    width: 650px;
+    height: 400px;
+    padding: 50px;
+    border-radius: 100px;
+}

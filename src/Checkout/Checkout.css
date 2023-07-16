@@ -1,0 +1,15 @@
+.c-out{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(0, 116, 116);
+    font-size: 100px;
+    font-weight: 900;
+    background-color: black;
+    height: 630px;
+}
+
+.c-out p{
+    margin: 0;
+}
